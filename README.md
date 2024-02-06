@@ -88,6 +88,7 @@ type:
 
 ### Functions
 
+```
 /**
  * This function creates a new combination
  *
@@ -137,6 +138,7 @@ CN_combination * CN_findNextCombination(CN_combination * parentCombination, CN_c
  * @param combination The combination to free
  */
 void CN_freeCombination(CN_combination * combination);
+```
 
 ```
 typedef struct {
