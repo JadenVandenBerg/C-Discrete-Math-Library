@@ -15,6 +15,7 @@ type:
 
 ### Functions
 
+```
 /**
  * This function converts a permutation to a combination
  *
@@ -59,3 +60,4 @@ PM_permutation * PM_newPermutation(int length, void * args, int type);
  * @return The same permutation that was passed. Data changed via pass by reference
  */
 PM_permutation * PM_sortPermutation(PM_permutation * permutation, int sortOrder);
+```

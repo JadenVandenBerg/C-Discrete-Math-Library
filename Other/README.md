@@ -1,5 +1,5 @@
 ## General Algorithms
-
+```
 /**
  * This function finds the highest value in an integer array
  *
@@ -25,9 +25,9 @@ int LIB_findSmallestInSet(int * arr, int arrLength);
  * @return The reversed string
  */
 char * reverseString(char * string);
-
+```
 ## Conversions
-
+```
 /**
  * This function converts a permutation to an array
  *
@@ -51,9 +51,9 @@ char * integerToString(unsigned long long int integer);
  * @return The resulting char
  */
 char digitToChar(int digit);
-
+```
 ## Quality of Life Functions
-
+```
 /**
  * This function allocates memory for n bytes and copies them to (*dest)
  *
@@ -80,3 +80,4 @@ void free2DArray(void ** array, int numRows);
  * @return void
  */
 void print(char * string);
+```
