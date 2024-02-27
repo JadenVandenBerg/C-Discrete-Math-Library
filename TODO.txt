@@ -1,0 +1,38 @@
+GENERAL
+
+- Add double support for
+ - Combinations
+ - Permutations
+ - Vectors
+ - Matrix
+
+
+Math
+
+- Factorial
+
+
+MATRIX
+
+- New Matrix
+- Addition
+- Multiplication
+- Transpose (swap rows and columns)
+- Inverse
+- Determinant
+
+
+COMBINATIONS
+
+- NumCombinations (n! over k!(n-k)!)
+
+
+GRAPH
+
+- New Graph
+- Add/Remove Vertex/Node
+- Shortest Path between vertices
+- Traversal (BFS)
+- Minimum Spanning Tree
+- Findpath between vertices
+- Find Degree (In, Out)
